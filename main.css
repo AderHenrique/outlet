@@ -1,0 +1,46 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+.navbar{
+  background-color:#080808;
+}
+#cabecalho .nav .nav-link.active{
+  background-color: #fff;
+  color: #080808;
+}
+
+#cabecalho .nav .nav-link , .navbar-brand ,.navbar-brand:hover{
+  color: #fff;
+}
+
+.section-title{
+  font-family: 'Pacifico', cursive;
+} 
+#produtos{
+  background-color: #a9a9a9;
+}
+.text-link {
+  color: #080808;
+}
+.nav-produtos .nav-link.active{
+  background-color: #fff;
+  color: #080808;
+}
+.nav-produtos .nav-link.active:hover, .nav-produtos .nav-link:hover{
+  color: #080808;
+}
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+.social-links a{
+  text-decoration: none;
+}
+footer{
+  color: #fff;
+  background-color: #080808;
+}
+
+.form-camp textarea{
+  resize: none;
+}
